@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:wbailey-cjxd3/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: wbailey@cloudbees.com
+  token: vault:wbailey-cjxd3/pipelineUser:token
+  username: warrenbailey-cb-bot
+prow:
+  hmacToken: vault:wbailey-cjxd3/prow:hmacToken
